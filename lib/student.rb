@@ -4,7 +4,7 @@ class Student
     puts "Hey there! I'm so excited to learn stuff."
   end  
   
-  def hello
+  def raise_hand
     puts "Hey there! I'm so excited to learn stuff."
   end  
   
